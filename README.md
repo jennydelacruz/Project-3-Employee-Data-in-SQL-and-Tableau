@@ -1,3 +1,6 @@
+# To view the results of the SQL queries  as visualizations in Tableau follow the link below:
+https://public.tableau.com/app/profile/jenny3343/viz/Project3-CombiningSQLandTableau/BusinessDashboard
+
 # SQL-and-Tableau-Project-3
 In this project, as part of Udemy's Business Intelligence course. I have queried a fictional employee database containing over 135,000 records, using MySQL workbench. 
 
